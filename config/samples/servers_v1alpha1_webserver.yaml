@@ -1,0 +1,7 @@
+apiVersion: servers.redhat.com/v1alpha1
+kind: Webserver
+metadata:
+  name: webserver-sample
+spec:
+  # Add fields here
+  foo: bar
